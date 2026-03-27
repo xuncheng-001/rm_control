@@ -1,4 +1,3 @@
-
 std_msgs/Header header
 float64 yaw_subtract_
 float64 output_yaw_central
@@ -11,4 +10,7 @@ float64 center_next_armor_
 float64 center_diagonal_armor_
 float64 center_triple_next_armor_
 float64 traject_acc_
+float64 pos_distance_
+float64 traject_switch_time_
 int16 selected_armor_
+int16 Advanced_planning_
